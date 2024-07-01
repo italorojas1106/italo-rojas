@@ -1,0 +1,2889 @@
+Clientes:
+Estadios:
+Estadio: Estadio Olímpico de Berlín
+Ciudad: Berlín
+Capacidad general: 133
+Capacidad vip: 319
+Restaurantes:
+- Nombre: Centeno S.L.
+  Productos:
+  - Nombre: Increible Plástico Teclado
+    Cantidad: 3820
+    Precio: 1006.88
+    Adicional: plate
+    Stock: 355
+  - Nombre: Ergonómico Hormigon Bicicleta
+    Cantidad: 10556
+    Precio: 1104.32
+    Adicional: alcoholic
+    Stock: 440
+  - Nombre: Genérico Algodón Raton
+    Cantidad: 6003
+    Precio: 77.72
+    Adicional: non-alcoholic
+    Stock: 384
+  - Nombre: Genérico Ladrillo Pantalones
+    Cantidad: 10702
+    Precio: 293.48
+    Adicional: non-alcoholic
+    Stock: 321
+  - Nombre: Refinado Ladrillo Toallas
+    Cantidad: 9467
+    Precio: 965.12
+    Adicional: package
+    Stock: 311
+  - Nombre: Pequeño Plástico Camiseta
+    Cantidad: 10876
+    Precio: 334.08
+    Adicional: plate
+    Stock: 391
+  - Nombre: Rústico Acero Sopa
+    Cantidad: 14306
+    Precio: 538.24
+    Adicional: package
+    Stock: 411
+  - Nombre: Pequeño Algodón Guantes
+    Cantidad: 10948
+    Precio: 187.92000000000002
+    Adicional: non-alcoholic
+    Stock: 276
+  - Nombre: Guapa Acero Pantalones
+    Cantidad: 10247
+    Precio: 905.96
+    Adicional: package
+    Stock: 382
+  - Nombre: Sorprendente Algodón Queso
+    Cantidad: 3488
+    Precio: 568.4
+    Adicional: non-alcoholic
+    Stock: 332
+  - Nombre: Sabroso Algodón Teclado
+    Cantidad: 2566
+    Precio: 1086.92
+    Adicional: plate
+    Stock: 105
+  - Nombre: Pequeño Metal Gorro
+    Cantidad: 8466
+    Precio: 1011.52
+    Adicional: alcoholic
+    Stock: 148
+  - Nombre: Hecho a mano Metal Pelota
+    Cantidad: 5276
+    Precio: 211.12
+    Adicional: package
+    Stock: 119
+  - Nombre: Increible Algodón Raton
+    Cantidad: 6076
+    Precio: 635.6800000000001
+    Adicional: non-alcoholic
+    Stock: 184
+  - Nombre: Guapo Metal Pescado
+    Cantidad: 11232
+    Precio: 679.76
+    Adicional: alcoholic
+    Stock: 158
+
+- Nombre: Montes y Pacheco
+  Productos:
+  - Nombre: Genérico Metal Ordenador
+    Cantidad: 14604
+    Precio: 138.04
+    Adicional: non-alcoholic
+    Stock: 447
+  - Nombre: Guapa Granito Raton
+    Cantidad: 5331
+    Precio: 327.12
+    Adicional: plate
+    Stock: 101
+  - Nombre: Ergonómico Madera Pollo
+    Cantidad: 13381
+    Precio: 143.84
+    Adicional: non-alcoholic
+    Stock: 243
+  - Nombre: Refinado Plástico Patatas fritas
+    Cantidad: 12624
+    Precio: 1095.04
+    Adicional: alcoholic
+    Stock: 373
+  - Nombre: Práctico Algodón Pantalones
+    Cantidad: 5125
+    Precio: 10.44
+    Adicional: package
+    Stock: 354
+  - Nombre: Pequeño Algodón Silla
+    Cantidad: 9521
+    Precio: 567.24
+    Adicional: plate
+    Stock: 420
+  - Nombre: Sorprendente Ladrillo Camiseta
+    Cantidad: 9446
+    Precio: 327.12
+    Adicional: alcoholic
+    Stock: 304
+  - Nombre: Artesanal Algodón Salchichas
+    Cantidad: 6883
+    Precio: 103.24
+    Adicional: non-alcoholic
+    Stock: 311
+  - Nombre: Pequeño Hormigon Teclado
+    Cantidad: 9308
+    Precio: 619.44
+    Adicional: plate
+    Stock: 346
+  - Nombre: Sabroso Acero Pelota
+    Cantidad: 3451
+    Precio: 99.76
+    Adicional: package
+    Stock: 227
+
+- Nombre: Pineda y Puga
+  Productos:
+  - Nombre: Fantástico Acero Teclado
+    Cantidad: 13586
+    Precio: 77.72
+    Adicional: package
+    Stock: 201
+  - Nombre: Guapa Plástico Salchichas
+    Cantidad: 6249
+    Precio: 598.56
+    Adicional: non-alcoholic
+    Stock: 355
+  - Nombre: Inteligente Algodón Mesa
+    Cantidad: 11632
+    Precio: 1085.76
+    Adicional: alcoholic
+    Stock: 256
+  - Nombre: Refinado Metal Queso
+    Cantidad: 5724
+    Precio: 734.28
+    Adicional: plate
+    Stock: 202
+  - Nombre: Sorprendente Madera Bacon
+    Cantidad: 3383
+    Precio: 551.0
+    Adicional: alcoholic
+    Stock: 289
+  - Nombre: Guapo Metal Pantalones
+    Cantidad: 9875
+    Precio: 525.48
+    Adicional: non-alcoholic
+    Stock: 325
+  - Nombre: Genérico Ladrillo Ensalada
+    Cantidad: 8750
+    Precio: 791.12
+    Adicional: package
+    Stock: 462
+  - Nombre: Refinado Madera Pizza
+    Cantidad: 43
+    Precio: 876.96
+    Adicional: package
+    Stock: 105
+  - Nombre: Sorprendente Hormigon Queso
+    Cantidad: 13679
+    Precio: 486.04
+    Adicional: package
+    Stock: 320
+  - Nombre: Práctico Madera Salchichas
+    Cantidad: 3085
+    Precio: 1090.4
+    Adicional: non-alcoholic
+    Stock: 192
+  - Nombre: Artesanal Ladrillo Mesa
+    Cantidad: 11804
+    Precio: 1035.88
+    Adicional: non-alcoholic
+    Stock: 288
+  - Nombre: Rústico Hormigon Pescado
+    Cantidad: 1923
+    Precio: 218.08
+    Adicional: non-alcoholic
+    Stock: 319
+  - Nombre: Hecho a mano Granito Camiseta
+    Cantidad: 6771
+    Precio: 955.84
+    Adicional: plate
+    Stock: 414
+
+- Nombre: Aponte, Guillén y Jurado Asociados
+  Productos:
+  - Nombre: Hecho a mano Ladrillo Gorro
+    Cantidad: 4246
+    Precio: 281.88
+    Adicional: plate
+    Stock: 152
+  - Nombre: Guapa Granito Bacon
+    Cantidad: 6063
+    Precio: 588.12
+    Adicional: plate
+    Stock: 215
+  - Nombre: Genérico Ladrillo Toallas
+    Cantidad: 6328
+    Precio: 359.6
+    Adicional: package
+    Stock: 182
+  - Nombre: Práctico Algodón Toallas
+    Cantidad: 2198
+    Precio: 135.72
+    Adicional: package
+    Stock: 360
+  - Nombre: Pequeño Algodón Ensalada
+    Cantidad: 14894
+    Precio: 1088.08
+    Adicional: plate
+    Stock: 124
+  - Nombre: Increible Granito Pizza
+    Cantidad: 3281
+    Precio: 17.4
+    Adicional: alcoholic
+    Stock: 259
+  - Nombre: Inteligente Granito Guantes
+    Cantidad: 1350
+    Precio: 929.16
+    Adicional: non-alcoholic
+    Stock: 216
+  - Nombre: Genérico Granito Pescado
+    Cantidad: 32
+    Precio: 342.2
+    Adicional: plate
+    Stock: 239
+  - Nombre: Genérico Madera Sopa
+    Cantidad: 4725
+    Precio: 662.36
+    Adicional: non-alcoholic
+    Stock: 261
+  - Nombre: Refinado Acero Bicicleta
+    Cantidad: 5098
+    Precio: 537.08
+    Adicional: non-alcoholic
+    Stock: 140
+  - Nombre: Artesanal Algodón Ensalada
+    Cantidad: 9293
+    Precio: 328.28
+    Adicional: alcoholic
+    Stock: 333
+  - Nombre: Genérico Acero Atún
+    Cantidad: 28
+    Precio: 770.24
+    Adicional: plate
+    Stock: 381
+
+- Nombre: Carbajal Medina S.L.
+  Productos:
+  - Nombre: Práctico Acero Ensalada
+    Cantidad: 7879
+    Precio: 711.08
+    Adicional: package
+    Stock: 397
+  - Nombre: Guapa Madera Mesa
+    Cantidad: 5591
+    Precio: 680.92
+    Adicional: package
+    Stock: 158
+  - Nombre: Inteligente Hormigon Queso
+    Cantidad: 1369
+    Precio: 662.36
+    Adicional: plate
+    Stock: 240
+  - Nombre: Artesanal Ladrillo Gorro
+    Cantidad: 3751
+    Precio: 528.96
+    Adicional: alcoholic
+    Stock: 279
+  - Nombre: Genérico Algodón Pescado
+    Cantidad: 9322
+    Precio: 468.64
+    Adicional: package
+    Stock: 499
+  - Nombre: Genérico Acero Mesa
+    Cantidad: 6373
+    Precio: 635.6800000000001
+    Adicional: non-alcoholic
+    Stock: 127
+  - Nombre: Sorprendente Ladrillo Mesa
+    Cantidad: 6712
+    Precio: 814.32
+    Adicional: plate
+    Stock: 179
+  - Nombre: Fantástico Plástico Toallas
+    Cantidad: 11847
+    Precio: 938.44
+    Adicional: non-alcoholic
+    Stock: 367
+  - Nombre: Increible Madera Zapatos
+    Cantidad: 1518
+    Precio: 856.08
+    Adicional: package
+    Stock: 233
+  - Nombre: Ergonómico Madera Ensalada
+    Cantidad: 12707
+    Precio: 13.92
+    Adicional: non-alcoholic
+    Stock: 103
+  - Nombre: Práctico Granito Raton
+    Cantidad: 6835
+    Precio: 439.64
+    Adicional: alcoholic
+    Stock: 207
+
+
+Estadio: Allianz Arena
+Ciudad: Munich
+Capacidad general: 937
+Capacidad vip: 411
+Restaurantes:
+- Nombre: Solorzano Quintero e Hijos
+  Productos:
+  - Nombre: Fantástico Hormigon Queso
+    Cantidad: 3833
+    Precio: 593.92
+    Adicional: plate
+    Stock: 215
+  - Nombre: Increible Plástico Pescado
+    Cantidad: 7577
+    Precio: 969.76
+    Adicional: non-alcoholic
+    Stock: 165
+  - Nombre: Artesanal Hormigon Guantes
+    Cantidad: 10291
+    Precio: 965.12
+    Adicional: package
+    Stock: 446
+  - Nombre: Práctico Madera Guantes
+    Cantidad: 4904
+    Precio: 842.16
+    Adicional: non-alcoholic
+    Stock: 306
+  - Nombre: Pequeño Hormigon Pelota
+    Cantidad: 1022
+    Precio: 135.72
+    Adicional: alcoholic
+    Stock: 176
+  - Nombre: Sabroso Granito Pizza
+    Cantidad: 8826
+    Precio: 629.88
+    Adicional: alcoholic
+    Stock: 245
+  - Nombre: Refinado Hormigon Toallas
+    Cantidad: 6628
+    Precio: 684.4
+    Adicional: alcoholic
+    Stock: 357
+  - Nombre: Guapa Acero Gorro
+    Cantidad: 7750
+    Precio: 715.72
+    Adicional: non-alcoholic
+    Stock: 270
+  - Nombre: Ergonómico Madera Toallas
+    Cantidad: 2659
+    Precio: 705.28
+    Adicional: plate
+    Stock: 229
+  - Nombre: Ergonómico Acero Salchichas
+    Cantidad: 13997
+    Precio: 176.32
+    Adicional: plate
+    Stock: 428
+  - Nombre: Ergonómico Acero Ensalada
+    Cantidad: 6369
+    Precio: 293.48
+    Adicional: package
+    Stock: 266
+  - Nombre: Rústico Plástico Sopa
+    Cantidad: 2257
+    Precio: 323.64
+    Adicional: plate
+    Stock: 130
+
+- Nombre: Pacheco, Mesa y Quiñones Asociados
+  Productos:
+  - Nombre: Rústico Plástico Zapatos
+    Cantidad: 14765
+    Precio: 444.28
+    Adicional: plate
+    Stock: 442
+  - Nombre: Guapa Granito Silla
+    Cantidad: 6599
+    Precio: 577.6800000000001
+    Adicional: alcoholic
+    Stock: 189
+  - Nombre: Pequeño Algodón Bicicleta
+    Cantidad: 3289
+    Precio: 127.6
+    Adicional: package
+    Stock: 491
+  - Nombre: Refinado Ladrillo Pantalones
+    Cantidad: 6283
+    Precio: 1107.8
+    Adicional: plate
+    Stock: 402
+  - Nombre: Refinado Granito Patatas fritas
+    Cantidad: 1969
+    Precio: 551.0
+    Adicional: package
+    Stock: 422
+  - Nombre: Guapo Algodón Pollo
+    Cantidad: 13998
+    Precio: 502.28
+    Adicional: plate
+    Stock: 195
+  - Nombre: Guapa Ladrillo Ensalada
+    Cantidad: 4940
+    Precio: 911.76
+    Adicional: package
+    Stock: 357
+  - Nombre: Guapa Hormigon Mesa
+    Cantidad: 7065
+    Precio: 1084.6
+    Adicional: package
+    Stock: 431
+  - Nombre: Increible Algodón Ordenador
+    Cantidad: 8967
+    Precio: 1068.3600000000001
+    Adicional: plate
+    Stock: 290
+  - Nombre: Inteligente Plástico Pelota
+    Cantidad: 14985
+    Precio: 566.08
+    Adicional: package
+    Stock: 332
+  - Nombre: Guapa Acero Bacon
+    Cantidad: 9221
+    Precio: 506.92
+    Adicional: package
+    Stock: 454
+  - Nombre: Genérico Ladrillo Guantes
+    Cantidad: 2810
+    Precio: 990.64
+    Adicional: package
+    Stock: 264
+
+- Nombre: Rentería Marín e Hijos
+  Productos:
+  - Nombre: Guapa Plástico Coche
+    Cantidad: 181
+    Precio: 238.96
+    Adicional: package
+    Stock: 118
+  - Nombre: Fantástico Hormigon Pescado
+    Cantidad: 14452
+    Precio: 593.92
+    Adicional: package
+    Stock: 192
+  - Nombre: Ergonómico Hormigon Gorro
+    Cantidad: 5774
+    Precio: 582.32
+    Adicional: alcoholic
+    Stock: 283
+  - Nombre: Sabroso Granito Guantes
+    Cantidad: 417
+    Precio: 1020.8
+    Adicional: package
+    Stock: 293
+  - Nombre: Hecho a mano Metal Ensalada
+    Cantidad: 7078
+    Precio: 382.8
+    Adicional: alcoholic
+    Stock: 244
+  - Nombre: Inteligente Algodón Camiseta
+    Cantidad: 11151
+    Precio: 229.68
+    Adicional: plate
+    Stock: 187
+  - Nombre: Genérico Madera Pescado
+    Cantidad: 885
+    Precio: 851.44
+    Adicional: alcoholic
+    Stock: 491
+  - Nombre: Artesanal Algodón Pizza
+    Cantidad: 1346
+    Precio: 878.12
+    Adicional: alcoholic
+    Stock: 294
+  - Nombre: Fantástico Plástico Mesa
+    Cantidad: 4482
+    Precio: 212.28
+    Adicional: alcoholic
+    Stock: 235
+  - Nombre: Rústico Madera Ordenador
+    Cantidad: 1961
+    Precio: 1140.28
+    Adicional: alcoholic
+    Stock: 272
+  - Nombre: Sabroso Madera Ensalada
+    Cantidad: 13461
+    Precio: 631.04
+    Adicional: plate
+    Stock: 499
+  - Nombre: Genérico Hormigon Teclado
+    Cantidad: 8048
+    Precio: 16.240000000000002
+    Adicional: non-alcoholic
+    Stock: 500
+  - Nombre: Inteligente Ladrillo Ensalada
+    Cantidad: 5309
+    Precio: 842.16
+    Adicional: package
+    Stock: 137
+
+
+Estadio: Signal Iduna Park
+Ciudad: Dortmund
+Capacidad general: 19
+Capacidad vip: 159
+Restaurantes:
+- Nombre: Carrasco y Calvillo
+  Productos:
+  - Nombre: Sabroso Madera Ordenador
+    Cantidad: 3654
+    Precio: 714.56
+    Adicional: alcoholic
+    Stock: 209
+  - Nombre: Increible Hormigon Ordenador
+    Cantidad: 7228
+    Precio: 1019.64
+    Adicional: alcoholic
+    Stock: 271
+  - Nombre: Hecho a mano Algodón Pelota
+    Cantidad: 4916
+    Precio: 87.0
+    Adicional: plate
+    Stock: 318
+  - Nombre: Rústico Madera Ordenador
+    Cantidad: 8542
+    Precio: 562.6
+    Adicional: non-alcoholic
+    Stock: 141
+  - Nombre: Hecho a mano Ladrillo Raton
+    Cantidad: 5025
+    Precio: 1086.92
+    Adicional: plate
+    Stock: 495
+  - Nombre: Artesanal Granito Ordenador
+    Cantidad: 2933
+    Precio: 874.64
+    Adicional: alcoholic
+    Stock: 363
+  - Nombre: Rústico Ladrillo Ensalada
+    Cantidad: 12605
+    Precio: 1106.64
+    Adicional: alcoholic
+    Stock: 431
+  - Nombre: Genérico Algodón Toallas
+    Cantidad: 1866
+    Precio: 211.12
+    Adicional: alcoholic
+    Stock: 255
+  - Nombre: Práctico Acero Teclado
+    Cantidad: 11423
+    Precio: 893.2
+    Adicional: plate
+    Stock: 153
+  - Nombre: Práctico Plástico Bicicleta
+    Cantidad: 14998
+    Precio: 1071.84
+    Adicional: package
+    Stock: 271
+  - Nombre: Sabroso Algodón Zapatos
+    Cantidad: 3943
+    Precio: 1027.76
+    Adicional: non-alcoholic
+    Stock: 220
+  - Nombre: Guapo Plástico Gorro
+    Cantidad: 4273
+    Precio: 1122.88
+    Adicional: non-alcoholic
+    Stock: 260
+  - Nombre: Práctico Ladrillo Guantes
+    Cantidad: 3711
+    Precio: 53.36
+    Adicional: plate
+    Stock: 218
+
+- Nombre: Carmona S.L.
+  Productos:
+  - Nombre: Fantástico Granito Pescado
+    Cantidad: 12775
+    Precio: 602.04
+    Adicional: plate
+    Stock: 409
+  - Nombre: Práctico Acero Mesa
+    Cantidad: 14631
+    Precio: 801.56
+    Adicional: non-alcoholic
+    Stock: 107
+  - Nombre: Sabroso Madera Silla
+    Cantidad: 12275
+    Precio: 446.6
+    Adicional: plate
+    Stock: 174
+  - Nombre: Guapo Plástico Coche
+    Cantidad: 13824
+    Precio: 262.16
+    Adicional: package
+    Stock: 358
+  - Nombre: Ergonómico Ladrillo Coche
+    Cantidad: 7277
+    Precio: 97.44
+    Adicional: non-alcoholic
+    Stock: 434
+  - Nombre: Fantástico Acero Pelota
+    Cantidad: 3701
+    Precio: 264.48
+    Adicional: plate
+    Stock: 177
+  - Nombre: Hecho a mano Hormigon Silla
+    Cantidad: 385
+    Precio: 858.4
+    Adicional: non-alcoholic
+    Stock: 385
+  - Nombre: Ergonómico Acero Coche
+    Cantidad: 9246
+    Precio: 849.12
+    Adicional: package
+    Stock: 119
+  - Nombre: Increible Plástico Raton
+    Cantidad: 1935
+    Precio: 1017.3199999999999
+    Adicional: plate
+    Stock: 497
+  - Nombre: Hecho a mano Granito Gorro
+    Cantidad: 9776
+    Precio: 1128.68
+    Adicional: alcoholic
+    Stock: 280
+  - Nombre: Ergonómico Madera Patatas fritas
+    Cantidad: 14598
+    Precio: 792.28
+    Adicional: non-alcoholic
+    Stock: 202
+  - Nombre: Sorprendente Metal Ensalada
+    Cantidad: 754
+    Precio: 489.52
+    Adicional: plate
+    Stock: 119
+
+- Nombre: Santillán, Rojo y Velasco Asociados
+  Productos:
+  - Nombre: Artesanal Madera Camiseta
+    Cantidad: 8304
+    Precio: 994.12
+    Adicional: non-alcoholic
+    Stock: 261
+  - Nombre: Sabroso Hormigon Gorro
+    Cantidad: 4785
+    Precio: 1046.32
+    Adicional: plate
+    Stock: 476
+  - Nombre: Genérico Algodón Mesa
+    Cantidad: 7613
+    Precio: 726.16
+    Adicional: plate
+    Stock: 215
+  - Nombre: Guapo Madera Patatas fritas
+    Cantidad: 4767
+    Precio: 406.0
+    Adicional: plate
+    Stock: 112
+  - Nombre: Increible Algodón Mesa
+    Cantidad: 976
+    Precio: 655.4
+    Adicional: non-alcoholic
+    Stock: 302
+  - Nombre: Ergonómico Hormigon Zapatos
+    Cantidad: 14897
+    Precio: 870.0
+    Adicional: alcoholic
+    Stock: 203
+  - Nombre: Fantástico Algodón Patatas fritas
+    Cantidad: 5540
+    Precio: 325.96
+    Adicional: non-alcoholic
+    Stock: 436
+  - Nombre: Fantástico Madera Bacon
+    Cantidad: 6012
+    Precio: 984.84
+    Adicional: package
+    Stock: 192
+  - Nombre: Práctico Ladrillo Bicicleta
+    Cantidad: 8397
+    Precio: 62.64
+    Adicional: package
+    Stock: 367
+  - Nombre: Refinado Algodón Pelota
+    Cantidad: 11600
+    Precio: 967.44
+    Adicional: plate
+    Stock: 159
+  - Nombre: Práctico Granito Salchichas
+    Cantidad: 13522
+    Precio: 915.24
+    Adicional: alcoholic
+    Stock: 353
+  - Nombre: Práctico Ladrillo Toallas
+    Cantidad: 5996
+    Precio: 375.84000000000003
+    Adicional: package
+    Stock: 148
+  - Nombre: Refinado Madera Mesa
+    Cantidad: 6514
+    Precio: 520.84
+    Adicional: plate
+    Stock: 331
+
+- Nombre: Munguía Hermanos
+  Productos:
+  - Nombre: Genérico Granito Camiseta
+    Cantidad: 9324
+    Precio: 87.0
+    Adicional: non-alcoholic
+    Stock: 249
+  - Nombre: Genérico Plástico Raton
+    Cantidad: 2385
+    Precio: 269.12
+    Adicional: non-alcoholic
+    Stock: 217
+  - Nombre: Increible Acero Coche
+    Cantidad: 4628
+    Precio: 752.84
+    Adicional: alcoholic
+    Stock: 301
+  - Nombre: Pequeño Metal Guantes
+    Cantidad: 1802
+    Precio: 902.48
+    Adicional: package
+    Stock: 199
+  - Nombre: Increible Granito Coche
+    Cantidad: 4946
+    Precio: 380.48
+    Adicional: alcoholic
+    Stock: 268
+  - Nombre: Sorprendente Metal Pantalones
+    Cantidad: 10186
+    Precio: 178.64
+    Adicional: package
+    Stock: 219
+  - Nombre: Inteligente Algodón Salchichas
+    Cantidad: 14092
+    Precio: 117.16
+    Adicional: package
+    Stock: 192
+  - Nombre: Hecho a mano Metal Toallas
+    Cantidad: 6448
+    Precio: 1090.4
+    Adicional: package
+    Stock: 249
+  - Nombre: Guapa Plástico Pelota
+    Cantidad: 11649
+    Precio: 561.44
+    Adicional: package
+    Stock: 397
+  - Nombre: Guapo Hormigon Queso
+    Cantidad: 14642
+    Precio: 583.48
+    Adicional: alcoholic
+    Stock: 230
+  - Nombre: Ergonómico Plástico Patatas fritas
+    Cantidad: 13325
+    Precio: 1107.8
+    Adicional: plate
+    Stock: 298
+
+- Nombre: Llamas, Cervántez y Barragán Asociados
+  Productos:
+  - Nombre: Rústico Plástico Pantalones
+    Cantidad: 8661
+    Precio: 904.8
+    Adicional: package
+    Stock: 236
+  - Nombre: Rústico Madera Raton
+    Cantidad: 1622
+    Precio: 1099.68
+    Adicional: non-alcoholic
+    Stock: 211
+  - Nombre: Rústico Acero Silla
+    Cantidad: 11755
+    Precio: 198.36
+    Adicional: package
+    Stock: 206
+  - Nombre: Rústico Ladrillo Camiseta
+    Cantidad: 14926
+    Precio: 959.3199999999999
+    Adicional: package
+    Stock: 441
+  - Nombre: Ergonómico Acero Pollo
+    Cantidad: 14678
+    Precio: 642.64
+    Adicional: package
+    Stock: 327
+  - Nombre: Pequeño Hormigon Pescado
+    Cantidad: 13536
+    Precio: 1140.28
+    Adicional: plate
+    Stock: 393
+  - Nombre: Refinado Metal Camiseta
+    Cantidad: 4148
+    Precio: 1114.76
+    Adicional: non-alcoholic
+    Stock: 185
+  - Nombre: Rústico Algodón Pantalones
+    Cantidad: 6576
+    Precio: 1027.76
+    Adicional: alcoholic
+    Stock: 143
+  - Nombre: Sorprendente Hormigon Coche
+    Cantidad: 8925
+    Precio: 102.08
+    Adicional: plate
+    Stock: 227
+  - Nombre: Sabroso Ladrillo Pantalones
+    Cantidad: 7363
+    Precio: 223.88
+    Adicional: package
+    Stock: 256
+  - Nombre: Guapo Metal Pescado
+    Cantidad: 14142
+    Precio: 23.2
+    Adicional: package
+    Stock: 374
+  - Nombre: Fantástico Ladrillo Queso
+    Cantidad: 13197
+    Precio: 428.04
+    Adicional: package
+    Stock: 175
+  - Nombre: Rústico Metal Mesa
+    Cantidad: 1115
+    Precio: 298.12
+    Adicional: plate
+    Stock: 159
+  - Nombre: Inteligente Hormigon Ensalada
+    Cantidad: 12187
+    Precio: 64.96000000000001
+    Adicional: package
+    Stock: 431
+
+- Nombre: Cordero, Tijerina y Ibarra Asociados
+  Productos:
+  - Nombre: Refinado Granito Pantalones
+    Cantidad: 11333
+    Precio: 448.92
+    Adicional: plate
+    Stock: 249
+  - Nombre: Sabroso Plástico Pantalones
+    Cantidad: 13812
+    Precio: 472.12
+    Adicional: plate
+    Stock: 225
+  - Nombre: Refinado Granito Silla
+    Cantidad: 6601
+    Precio: 628.72
+    Adicional: package
+    Stock: 404
+  - Nombre: Pequeño Plástico Ensalada
+    Cantidad: 3065
+    Precio: 160.08
+    Adicional: non-alcoholic
+    Stock: 373
+  - Nombre: Fantástico Hormigon Toallas
+    Cantidad: 5142
+    Precio: 578.84
+    Adicional: package
+    Stock: 300
+  - Nombre: Ergonómico Acero Teclado
+    Cantidad: 913
+    Precio: 685.56
+    Adicional: alcoholic
+    Stock: 301
+  - Nombre: Rústico Acero Silla
+    Cantidad: 13960
+    Precio: 1057.92
+    Adicional: package
+    Stock: 471
+  - Nombre: Refinado Algodón Pizza
+    Cantidad: 2185
+    Precio: 1066.04
+    Adicional: package
+    Stock: 340
+  - Nombre: Pequeño Madera Teclado
+    Cantidad: 2335
+    Precio: 578.84
+    Adicional: plate
+    Stock: 447
+  - Nombre: Pequeño Hormigon Ordenador
+    Cantidad: 2831
+    Precio: 103.24
+    Adicional: package
+    Stock: 196
+  - Nombre: Rústico Plástico Ensalada
+    Cantidad: 7913
+    Precio: 1059.08
+    Adicional: non-alcoholic
+    Stock: 216
+  - Nombre: Genérico Hormigon Sopa
+    Cantidad: 1293
+    Precio: 747.04
+    Adicional: non-alcoholic
+    Stock: 351
+  - Nombre: Genérico Metal Gorro
+    Cantidad: 14478
+    Precio: 93.96000000000001
+    Adicional: package
+    Stock: 406
+
+
+Estadio: MHPArena
+Ciudad: Stuttgart
+Capacidad general: 885
+Capacidad vip: 418
+Restaurantes:
+- Nombre: Orozco e Hijos
+  Productos:
+  - Nombre: Guapa Ladrillo Salchichas
+    Cantidad: 5105
+    Precio: 618.28
+    Adicional: non-alcoholic
+    Stock: 435
+  - Nombre: Sorprendente Metal Silla
+    Cantidad: 13589
+    Precio: 155.44
+    Adicional: plate
+    Stock: 266
+  - Nombre: Guapo Algodón Pelota
+    Cantidad: 6775
+    Precio: 139.2
+    Adicional: non-alcoholic
+    Stock: 442
+  - Nombre: Increible Ladrillo Pantalones
+    Cantidad: 802
+    Precio: 446.6
+    Adicional: non-alcoholic
+    Stock: 256
+  - Nombre: Genérico Algodón Silla
+    Cantidad: 1562
+    Precio: 599.72
+    Adicional: alcoholic
+    Stock: 196
+  - Nombre: Artesanal Plástico Teclado
+    Cantidad: 2172
+    Precio: 199.52
+    Adicional: alcoholic
+    Stock: 146
+  - Nombre: Sabroso Plástico Gorro
+    Cantidad: 2804
+    Precio: 1100.84
+    Adicional: plate
+    Stock: 261
+  - Nombre: Artesanal Hormigon Camiseta
+    Cantidad: 12225
+    Precio: 295.8
+    Adicional: plate
+    Stock: 182
+  - Nombre: Sabroso Hormigon Pescado
+    Cantidad: 7484
+    Precio: 1002.24
+    Adicional: package
+    Stock: 119
+  - Nombre: Hecho a mano Plástico Pantalones
+    Cantidad: 3405
+    Precio: 606.6800000000001
+    Adicional: alcoholic
+    Stock: 451
+
+- Nombre: Perales S.L.
+  Productos:
+  - Nombre: Guapo Hormigon Pizza
+    Cantidad: 10776
+    Precio: 651.92
+    Adicional: alcoholic
+    Stock: 336
+  - Nombre: Artesanal Algodón Sopa
+    Cantidad: 7528
+    Precio: 570.72
+    Adicional: plate
+    Stock: 367
+  - Nombre: Pequeño Hormigon Pelota
+    Cantidad: 7023
+    Precio: 1081.12
+    Adicional: package
+    Stock: 305
+  - Nombre: Inteligente Algodón Pollo
+    Cantidad: 8401
+    Precio: 383.96
+    Adicional: alcoholic
+    Stock: 150
+  - Nombre: Sorprendente Plástico Ordenador
+    Cantidad: 11596
+    Precio: 1096.2
+    Adicional: non-alcoholic
+    Stock: 185
+  - Nombre: Genérico Algodón Pollo
+    Cantidad: 14966
+    Precio: 545.2
+    Adicional: non-alcoholic
+    Stock: 131
+  - Nombre: Guapa Plástico Gorro
+    Cantidad: 9743
+    Precio: 316.68
+    Adicional: alcoholic
+    Stock: 417
+  - Nombre: Guapa Hormigon Raton
+    Cantidad: 2580
+    Precio: 110.2
+    Adicional: plate
+    Stock: 296
+  - Nombre: Refinado Metal Camiseta
+    Cantidad: 6560
+    Precio: 603.2
+    Adicional: alcoholic
+    Stock: 157
+  - Nombre: Inteligente Granito Ensalada
+    Cantidad: 4224
+    Precio: 873.48
+    Adicional: non-alcoholic
+    Stock: 259
+  - Nombre: Increible Algodón Coche
+    Cantidad: 14710
+    Precio: 882.76
+    Adicional: plate
+    Stock: 457
+
+- Nombre: Agosto Delrío S.L.
+  Productos:
+  - Nombre: Sabroso Ladrillo Coche
+    Cantidad: 8651
+    Precio: 562.6
+    Adicional: plate
+    Stock: 217
+  - Nombre: Práctico Madera Zapatos
+    Cantidad: 7241
+    Precio: 726.16
+    Adicional: non-alcoholic
+    Stock: 414
+  - Nombre: Pequeño Madera Guantes
+    Cantidad: 10915
+    Precio: 150.8
+    Adicional: plate
+    Stock: 106
+  - Nombre: Pequeño Madera Pantalones
+    Cantidad: 7305
+    Precio: 593.92
+    Adicional: package
+    Stock: 452
+  - Nombre: Refinado Madera Patatas fritas
+    Cantidad: 2977
+    Precio: 760.96
+    Adicional: package
+    Stock: 332
+  - Nombre: Refinado Ladrillo Coche
+    Cantidad: 13834
+    Precio: 808.52
+    Adicional: plate
+    Stock: 205
+  - Nombre: Sorprendente Hormigon Sopa
+    Cantidad: 8745
+    Precio: 1103.16
+    Adicional: plate
+    Stock: 317
+  - Nombre: Inteligente Acero Patatas fritas
+    Cantidad: 9414
+    Precio: 592.76
+    Adicional: alcoholic
+    Stock: 294
+  - Nombre: Artesanal Acero Gorro
+    Cantidad: 6082
+    Precio: 30.16
+    Adicional: plate
+    Stock: 471
+  - Nombre: Genérico Plástico Pollo
+    Cantidad: 5181
+    Precio: 1008.04
+    Adicional: package
+    Stock: 480
+  - Nombre: Guapo Metal Bacon
+    Cantidad: 13664
+    Precio: 416.44
+    Adicional: plate
+    Stock: 308
+  - Nombre: Increible Madera Salchichas
+    Cantidad: 3974
+    Precio: 191.4
+    Adicional: alcoholic
+    Stock: 202
+
+
+Estadio: Veltins-Arena
+Ciudad: Gelsenkirchen
+Capacidad general: 735
+Capacidad vip: 253
+Restaurantes:
+- Nombre: Téllez y Leal
+  Productos:
+  - Nombre: Artesanal Ladrillo Ensalada
+    Cantidad: 199
+    Precio: 508.08
+    Adicional: package
+    Stock: 239
+  - Nombre: Hecho a mano Metal Gorro
+    Cantidad: 1311
+    Precio: 663.52
+    Adicional: package
+    Stock: 384
+  - Nombre: Guapo Metal Salchichas
+    Cantidad: 11464
+    Precio: 183.28
+    Adicional: non-alcoholic
+    Stock: 298
+  - Nombre: Práctico Algodón Coche
+    Cantidad: 13879
+    Precio: 129.92000000000002
+    Adicional: package
+    Stock: 200
+  - Nombre: Ergonómico Acero Zapatos
+    Cantidad: 8076
+    Precio: 302.76
+    Adicional: package
+    Stock: 376
+  - Nombre: Sabroso Hormigon Zapatos
+    Cantidad: 4346
+    Precio: 662.36
+    Adicional: non-alcoholic
+    Stock: 258
+  - Nombre: Hecho a mano Granito Queso
+    Cantidad: 1019
+    Precio: 1137.96
+    Adicional: non-alcoholic
+    Stock: 188
+  - Nombre: Guapa Madera Ordenador
+    Cantidad: 3373
+    Precio: 187.92000000000002
+    Adicional: plate
+    Stock: 481
+  - Nombre: Práctico Acero Pescado
+    Cantidad: 6595
+    Precio: 738.92
+    Adicional: plate
+    Stock: 489
+  - Nombre: Hecho a mano Hormigon Pescado
+    Cantidad: 13966
+    Precio: 1137.96
+    Adicional: non-alcoholic
+    Stock: 397
+
+- Nombre: Urrutia y Pelayo
+  Productos:
+  - Nombre: Refinado Plástico Bicicleta
+    Cantidad: 10603
+    Precio: 975.56
+    Adicional: non-alcoholic
+    Stock: 107
+  - Nombre: Genérico Algodón Coche
+    Cantidad: 14054
+    Precio: 698.32
+    Adicional: non-alcoholic
+    Stock: 325
+  - Nombre: Pequeño Hormigon Pizza
+    Cantidad: 7997
+    Precio: 693.6800000000001
+    Adicional: plate
+    Stock: 254
+  - Nombre: Pequeño Metal Coche
+    Cantidad: 5188
+    Precio: 658.88
+    Adicional: non-alcoholic
+    Stock: 140
+  - Nombre: Ergonómico Granito Salchichas
+    Cantidad: 10902
+    Precio: 395.56
+    Adicional: package
+    Stock: 449
+  - Nombre: Guapa Acero Pescado
+    Cantidad: 12360
+    Precio: 1095.04
+    Adicional: non-alcoholic
+    Stock: 372
+  - Nombre: Sabroso Hormigon Queso
+    Cantidad: 1219
+    Precio: 680.92
+    Adicional: plate
+    Stock: 381
+  - Nombre: Guapo Ladrillo Sopa
+    Cantidad: 4634
+    Precio: 13.92
+    Adicional: alcoholic
+    Stock: 355
+  - Nombre: Hecho a mano Plástico Pollo
+    Cantidad: 13487
+    Precio: 574.2
+    Adicional: non-alcoholic
+    Stock: 421
+  - Nombre: Guapa Algodón Ordenador
+    Cantidad: 4700
+    Precio: 1030.08
+    Adicional: plate
+    Stock: 117
+
+- Nombre: Araña Villagómez e Hijos
+  Productos:
+  - Nombre: Ergonómico Ladrillo Bacon
+    Cantidad: 8141
+    Precio: 293.48
+    Adicional: alcoholic
+    Stock: 188
+  - Nombre: Guapo Ladrillo Pescado
+    Cantidad: 11951
+    Precio: 686.72
+    Adicional: plate
+    Stock: 438
+  - Nombre: Refinado Algodón Toallas
+    Cantidad: 13958
+    Precio: 770.24
+    Adicional: plate
+    Stock: 317
+  - Nombre: Pequeño Algodón Atún
+    Cantidad: 4489
+    Precio: 509.24
+    Adicional: non-alcoholic
+    Stock: 278
+  - Nombre: Inteligente Granito Sopa
+    Cantidad: 9081
+    Precio: 991.8
+    Adicional: alcoholic
+    Stock: 401
+  - Nombre: Pequeño Hormigon Gorro
+    Cantidad: 3606
+    Precio: 547.52
+    Adicional: package
+    Stock: 194
+  - Nombre: Guapa Madera Bacon
+    Cantidad: 476
+    Precio: 12.76
+    Adicional: alcoholic
+    Stock: 418
+  - Nombre: Ergonómico Algodón Zapatos
+    Cantidad: 14320
+    Precio: 607.84
+    Adicional: plate
+    Stock: 306
+  - Nombre: Fantástico Madera Guantes
+    Cantidad: 9246
+    Precio: 795.76
+    Adicional: plate
+    Stock: 376
+  - Nombre: Práctico Algodón Bicicleta
+    Cantidad: 6177
+    Precio: 201.84
+    Adicional: non-alcoholic
+    Stock: 290
+  - Nombre: Sabroso Granito Raton
+    Cantidad: 2976
+    Precio: 726.16
+    Adicional: alcoholic
+    Stock: 439
+  - Nombre: Increible Metal Pantalones
+    Cantidad: 5296
+    Precio: 251.72
+    Adicional: plate
+    Stock: 388
+
+- Nombre: Soto y Mesa
+  Productos:
+  - Nombre: Pequeño Metal Pescado
+    Cantidad: 3558
+    Precio: 464.0
+    Adicional: package
+    Stock: 371
+  - Nombre: Sabroso Granito Patatas fritas
+    Cantidad: 4316
+    Precio: 1142.6
+    Adicional: package
+    Stock: 307
+  - Nombre: Guapa Ladrillo Patatas fritas
+    Cantidad: 56
+    Precio: 560.28
+    Adicional: alcoholic
+    Stock: 301
+  - Nombre: Hecho a mano Algodón Teclado
+    Cantidad: 10202
+    Precio: 401.36
+    Adicional: alcoholic
+    Stock: 213
+  - Nombre: Inteligente Acero Silla
+    Cantidad: 3465
+    Precio: 104.4
+    Adicional: plate
+    Stock: 264
+  - Nombre: Sorprendente Algodón Atún
+    Cantidad: 2310
+    Precio: 493.0
+    Adicional: alcoholic
+    Stock: 473
+  - Nombre: Hecho a mano Granito Zapatos
+    Cantidad: 5623
+    Precio: 168.2
+    Adicional: package
+    Stock: 376
+  - Nombre: Pequeño Acero Toallas
+    Cantidad: 8150
+    Precio: 90.48
+    Adicional: package
+    Stock: 130
+  - Nombre: Genérico Metal Mesa
+    Cantidad: 2995
+    Precio: 614.8
+    Adicional: plate
+    Stock: 304
+  - Nombre: Hecho a mano Hormigon Toallas
+    Cantidad: 10892
+    Precio: 244.76
+    Adicional: alcoholic
+    Stock: 322
+
+- Nombre: Moreno y Irizarry
+  Productos:
+  - Nombre: Fantástico Hormigon Salchichas
+    Cantidad: 8597
+    Precio: 571.88
+    Adicional: plate
+    Stock: 338
+  - Nombre: Fantástico Acero Gorro
+    Cantidad: 146
+    Precio: 251.72
+    Adicional: non-alcoholic
+    Stock: 487
+  - Nombre: Refinado Metal Guantes
+    Cantidad: 12125
+    Precio: 683.24
+    Adicional: non-alcoholic
+    Stock: 445
+  - Nombre: Práctico Granito Toallas
+    Cantidad: 8391
+    Precio: 285.36
+    Adicional: plate
+    Stock: 298
+  - Nombre: Sorprendente Plástico Silla
+    Cantidad: 8756
+    Precio: 827.08
+    Adicional: package
+    Stock: 435
+  - Nombre: Artesanal Madera Zapatos
+    Cantidad: 11102
+    Precio: 764.44
+    Adicional: alcoholic
+    Stock: 218
+  - Nombre: Práctico Ladrillo Raton
+    Cantidad: 333
+    Precio: 332.92
+    Adicional: alcoholic
+    Stock: 365
+  - Nombre: Increible Acero Sopa
+    Cantidad: 7906
+    Precio: 406.0
+    Adicional: package
+    Stock: 403
+  - Nombre: Guapa Madera Salchichas
+    Cantidad: 7463
+    Precio: 547.52
+    Adicional: plate
+    Stock: 372
+  - Nombre: Artesanal Algodón Ordenador
+    Cantidad: 1613
+    Precio: 1046.32
+    Adicional: non-alcoholic
+    Stock: 209
+  - Nombre: Refinado Madera Teclado
+    Cantidad: 7702
+    Precio: 787.64
+    Adicional: alcoholic
+    Stock: 110
+  - Nombre: Rústico Ladrillo Camiseta
+    Cantidad: 6372
+    Precio: 116.0
+    Adicional: package
+    Stock: 451
+  - Nombre: Guapo Metal Raton
+    Cantidad: 265
+    Precio: 679.76
+    Adicional: non-alcoholic
+    Stock: 281
+
+
+Estadio: Volksparkstadion
+Ciudad: Hamburgo
+Capacidad general: 53
+Capacidad vip: 357
+Restaurantes:
+- Nombre: Mares, Samaniego y Matías Asociados
+  Productos:
+  - Nombre: Rústico Madera Silla
+    Cantidad: 14546
+    Precio: 387.44
+    Adicional: non-alcoholic
+    Stock: 387
+  - Nombre: Guapo Metal Pelota
+    Cantidad: 389
+    Precio: 571.88
+    Adicional: package
+    Stock: 273
+  - Nombre: Fantástico Algodón Camiseta
+    Cantidad: 5033
+    Precio: 593.92
+    Adicional: alcoholic
+    Stock: 270
+  - Nombre: Práctico Algodón Guantes
+    Cantidad: 7697
+    Precio: 684.4
+    Adicional: alcoholic
+    Stock: 368
+  - Nombre: Sabroso Algodón Pantalones
+    Cantidad: 2932
+    Precio: 232.0
+    Adicional: plate
+    Stock: 130
+  - Nombre: Increible Metal Toallas
+    Cantidad: 14320
+    Precio: 206.48
+    Adicional: alcoholic
+    Stock: 449
+  - Nombre: Hecho a mano Plástico Sopa
+    Cantidad: 7615
+    Precio: 640.32
+    Adicional: non-alcoholic
+    Stock: 284
+  - Nombre: Ergonómico Madera Pescado
+    Cantidad: 4107
+    Precio: 46.4
+    Adicional: plate
+    Stock: 103
+  - Nombre: Práctico Hormigon Bacon
+    Cantidad: 2839
+    Precio: 801.56
+    Adicional: non-alcoholic
+    Stock: 355
+  - Nombre: Práctico Ladrillo Pizza
+    Cantidad: 6372
+    Precio: 464.0
+    Adicional: plate
+    Stock: 482
+  - Nombre: Hecho a mano Granito Pollo
+    Cantidad: 11012
+    Precio: 1040.52
+    Adicional: non-alcoholic
+    Stock: 301
+
+- Nombre: Beltrán, Ojeda y Solís Asociados
+  Productos:
+  - Nombre: Increible Granito Bicicleta
+    Cantidad: 10918
+    Precio: 701.8
+    Adicional: plate
+    Stock: 400
+  - Nombre: Ergonómico Algodón Pollo
+    Cantidad: 12104
+    Precio: 852.6
+    Adicional: package
+    Stock: 353
+  - Nombre: Genérico Madera Teclado
+    Cantidad: 14394
+    Precio: 699.48
+    Adicional: plate
+    Stock: 363
+  - Nombre: Hecho a mano Acero Toallas
+    Cantidad: 6353
+    Precio: 141.52
+    Adicional: package
+    Stock: 296
+  - Nombre: Genérico Metal Silla
+    Cantidad: 313
+    Precio: 952.36
+    Adicional: plate
+    Stock: 115
+  - Nombre: Fantástico Metal Gorro
+    Cantidad: 3231
+    Precio: 351.48
+    Adicional: non-alcoholic
+    Stock: 142
+  - Nombre: Guapo Plástico Salchichas
+    Cantidad: 6194
+    Precio: 1139.12
+    Adicional: plate
+    Stock: 358
+  - Nombre: Refinado Plástico Raton
+    Cantidad: 9822
+    Precio: 484.88
+    Adicional: package
+    Stock: 500
+  - Nombre: Genérico Ladrillo Pantalones
+    Cantidad: 2033
+    Precio: 624.08
+    Adicional: non-alcoholic
+    Stock: 187
+  - Nombre: Guapa Ladrillo Mesa
+    Cantidad: 6536
+    Precio: 696.0
+    Adicional: alcoholic
+    Stock: 281
+
+- Nombre: Soria Delatorre S.L.
+  Productos:
+  - Nombre: Refinado Granito Teclado
+    Cantidad: 14437
+    Precio: 222.72
+    Adicional: alcoholic
+    Stock: 247
+  - Nombre: Increible Acero Queso
+    Cantidad: 405
+    Precio: 510.4
+    Adicional: plate
+    Stock: 104
+  - Nombre: Increible Ladrillo Ensalada
+    Cantidad: 13852
+    Precio: 1015.0
+    Adicional: plate
+    Stock: 172
+  - Nombre: Sorprendente Madera Pollo
+    Cantidad: 1219
+    Precio: 11.6
+    Adicional: package
+    Stock: 391
+  - Nombre: Guapa Ladrillo Salchichas
+    Cantidad: 659
+    Precio: 576.52
+    Adicional: package
+    Stock: 446
+  - Nombre: Hecho a mano Granito Sopa
+    Cantidad: 5938
+    Precio: 779.52
+    Adicional: package
+    Stock: 190
+  - Nombre: Inteligente Algodón Ensalada
+    Cantidad: 4437
+    Precio: 252.88
+    Adicional: non-alcoholic
+    Stock: 295
+  - Nombre: Rústico Acero Teclado
+    Cantidad: 6493
+    Precio: 237.8
+    Adicional: alcoholic
+    Stock: 116
+  - Nombre: Hecho a mano Algodón Mesa
+    Cantidad: 8632
+    Precio: 989.48
+    Adicional: alcoholic
+    Stock: 224
+  - Nombre: Rústico Granito Silla
+    Cantidad: 8078
+    Precio: 680.92
+    Adicional: plate
+    Stock: 479
+  - Nombre: Genérico Granito Pizza
+    Cantidad: 43
+    Precio: 907.12
+    Adicional: plate
+    Stock: 388
+  - Nombre: Artesanal Madera Gorro
+    Cantidad: 3232
+    Precio: 25.52
+    Adicional: non-alcoholic
+    Stock: 446
+
+- Nombre: Álvarez, Jurado y Rubio Asociados
+  Productos:
+  - Nombre: Hecho a mano Hormigon Pizza
+    Cantidad: 8724
+    Precio: 424.56
+    Adicional: package
+    Stock: 293
+  - Nombre: Sabroso Acero Bicicleta
+    Cantidad: 10170
+    Precio: 83.52
+    Adicional: alcoholic
+    Stock: 411
+  - Nombre: Inteligente Ladrillo Guantes
+    Cantidad: 8555
+    Precio: 648.44
+    Adicional: plate
+    Stock: 384
+  - Nombre: Guapo Granito Sopa
+    Cantidad: 567
+    Precio: 419.92
+    Adicional: plate
+    Stock: 410
+  - Nombre: Fantástico Plástico Mesa
+    Cantidad: 11601
+    Precio: 141.52
+    Adicional: plate
+    Stock: 422
+  - Nombre: Artesanal Metal Teclado
+    Cantidad: 7848
+    Precio: 225.04
+    Adicional: alcoholic
+    Stock: 226
+  - Nombre: Hecho a mano Hormigon Ensalada
+    Cantidad: 10125
+    Precio: 720.36
+    Adicional: plate
+    Stock: 446
+  - Nombre: Genérico Algodón Ordenador
+    Cantidad: 6982
+    Precio: 73.08
+    Adicional: package
+    Stock: 223
+  - Nombre: Inteligente Madera Pelota
+    Cantidad: 6097
+    Precio: 718.04
+    Adicional: plate
+    Stock: 473
+  - Nombre: Guapa Acero Mesa
+    Cantidad: 3028
+    Precio: 552.16
+    Adicional: non-alcoholic
+    Stock: 147
+  - Nombre: Fantástico Ladrillo Gorro
+    Cantidad: 1937
+    Precio: 58.0
+    Adicional: package
+    Stock: 455
+  - Nombre: Práctico Madera Silla
+    Cantidad: 5754
+    Precio: 1069.52
+    Adicional: non-alcoholic
+    Stock: 146
+
+- Nombre: Becerra y Laureano
+  Productos:
+  - Nombre: Guapa Plástico Coche
+    Cantidad: 3047
+    Precio: 785.32
+    Adicional: package
+    Stock: 418
+  - Nombre: Guapo Ladrillo Patatas fritas
+    Cantidad: 11104
+    Precio: 102.08
+    Adicional: non-alcoholic
+    Stock: 200
+  - Nombre: Guapo Granito Pizza
+    Cantidad: 2589
+    Precio: 60.32
+    Adicional: plate
+    Stock: 441
+  - Nombre: Práctico Acero Mesa
+    Cantidad: 7173
+    Precio: 404.84000000000003
+    Adicional: plate
+    Stock: 386
+  - Nombre: Ergonómico Algodón Coche
+    Cantidad: 2534
+    Precio: 149.64
+    Adicional: plate
+    Stock: 314
+  - Nombre: Hecho a mano Metal Bicicleta
+    Cantidad: 8403
+    Precio: 460.52
+    Adicional: alcoholic
+    Stock: 460
+  - Nombre: Increible Plástico Toallas
+    Cantidad: 2849
+    Precio: 1041.68
+    Adicional: package
+    Stock: 448
+  - Nombre: Sabroso Metal Bacon
+    Cantidad: 4599
+    Precio: 917.56
+    Adicional: plate
+    Stock: 168
+  - Nombre: Refinado Madera Patatas fritas
+    Cantidad: 8958
+    Precio: 193.72
+    Adicional: alcoholic
+    Stock: 476
+  - Nombre: Increible Ladrillo Pescado
+    Cantidad: 7371
+    Precio: 241.28
+    Adicional: package
+    Stock: 465
+  - Nombre: Hecho a mano Granito Ensalada
+    Cantidad: 8336
+    Precio: 424.56
+    Adicional: alcoholic
+    Stock: 134
+  - Nombre: Genérico Granito Zapatos
+    Cantidad: 8694
+    Precio: 755.16
+    Adicional: plate
+    Stock: 487
+  - Nombre: Guapo Plástico Ordenador
+    Cantidad: 10839
+    Precio: 1057.92
+    Adicional: plate
+    Stock: 439
+  - Nombre: Genérico Plástico Teclado
+    Cantidad: 3255
+    Precio: 750.52
+    Adicional: non-alcoholic
+    Stock: 248
+
+- Nombre: Zarate y Meza
+  Productos:
+  - Nombre: Fantástico Madera Gorro
+    Cantidad: 9855
+    Precio: 472.12
+    Adicional: alcoholic
+    Stock: 306
+  - Nombre: Increible Plástico Pescado
+    Cantidad: 13594
+    Precio: 170.52
+    Adicional: plate
+    Stock: 302
+  - Nombre: Rústico Ladrillo Guantes
+    Cantidad: 1068
+    Precio: 932.64
+    Adicional: package
+    Stock: 235
+  - Nombre: Rústico Metal Bicicleta
+    Cantidad: 8929
+    Precio: 986.0
+    Adicional: plate
+    Stock: 296
+  - Nombre: Sorprendente Algodón Pelota
+    Cantidad: 6688
+    Precio: 212.28
+    Adicional: alcoholic
+    Stock: 407
+  - Nombre: Refinado Acero Ordenador
+    Cantidad: 12283
+    Precio: 1037.04
+    Adicional: alcoholic
+    Stock: 153
+  - Nombre: Guapo Acero Raton
+    Cantidad: 274
+    Precio: 518.52
+    Adicional: package
+    Stock: 153
+  - Nombre: Práctico Acero Silla
+    Cantidad: 9596
+    Precio: 930.3199999999999
+    Adicional: alcoholic
+    Stock: 438
+  - Nombre: Hecho a mano Hormigon Zapatos
+    Cantidad: 3909
+    Precio: 40.6
+    Adicional: non-alcoholic
+    Stock: 467
+  - Nombre: Genérico Madera Sopa
+    Cantidad: 1105
+    Precio: 986.0
+    Adicional: alcoholic
+    Stock: 244
+  - Nombre: Inteligente Plástico Coche
+    Cantidad: 8140
+    Precio: 738.92
+    Adicional: plate
+    Stock: 274
+  - Nombre: Fantástico Metal Camiseta
+    Cantidad: 10813
+    Precio: 534.76
+    Adicional: alcoholic
+    Stock: 189
+  - Nombre: Sorprendente Acero Pollo
+    Cantidad: 5310
+    Precio: 205.32
+    Adicional: plate
+    Stock: 223
+  - Nombre: Guapo Acero Bicicleta
+    Cantidad: 8934
+    Precio: 600.88
+    Adicional: non-alcoholic
+    Stock: 347
+  - Nombre: Sabroso Ladrillo Camiseta
+    Cantidad: 4591
+    Precio: 266.8
+    Adicional: package
+    Stock: 123
+  - Nombre: Increible Ladrillo Salchichas
+    Cantidad: 6327
+    Precio: 626.4
+    Adicional: alcoholic
+    Stock: 391
+  - Nombre: Pequeño Ladrillo Camiseta
+    Cantidad: 1150
+    Precio: 125.28
+    Adicional: alcoholic
+    Stock: 444
+
+- Nombre: Pedraza, Lara y Alemán Asociados
+  Productos:
+  - Nombre: Sorprendente Granito Ensalada
+    Cantidad: 6208
+    Precio: 1012.6800000000001
+    Adicional: non-alcoholic
+    Stock: 152
+  - Nombre: Genérico Granito Camiseta
+    Cantidad: 4743
+    Precio: 107.88
+    Adicional: package
+    Stock: 145
+  - Nombre: Hecho a mano Metal Mesa
+    Cantidad: 7902
+    Precio: 1.16
+    Adicional: plate
+    Stock: 217
+  - Nombre: Guapa Hormigon Ensalada
+    Cantidad: 10372
+    Precio: 538.24
+    Adicional: package
+    Stock: 365
+  - Nombre: Rústico Hormigon Zapatos
+    Cantidad: 5223
+    Precio: 798.08
+    Adicional: package
+    Stock: 343
+  - Nombre: Artesanal Plástico Salchichas
+    Cantidad: 4495
+    Precio: 715.72
+    Adicional: plate
+    Stock: 374
+  - Nombre: Guapa Granito Bicicleta
+    Cantidad: 1643
+    Precio: 95.12
+    Adicional: non-alcoholic
+    Stock: 261
+  - Nombre: Sorprendente Plástico Raton
+    Cantidad: 14480
+    Precio: 1140.28
+    Adicional: alcoholic
+    Stock: 261
+  - Nombre: Fantástico Algodón Zapatos
+    Cantidad: 5942
+    Precio: 136.88
+    Adicional: package
+    Stock: 210
+  - Nombre: Artesanal Hormigon Queso
+    Cantidad: 7151
+    Precio: 495.32
+    Adicional: package
+    Stock: 296
+  - Nombre: Práctico Granito Zapatos
+    Cantidad: 5128
+    Precio: 77.72
+    Adicional: alcoholic
+    Stock: 341
+  - Nombre: Rústico Acero Pollo
+    Cantidad: 7327
+    Precio: 1046.32
+    Adicional: package
+    Stock: 190
+  - Nombre: Pequeño Ladrillo Pizza
+    Cantidad: 3003
+    Precio: 1156.52
+    Adicional: alcoholic
+    Stock: 364
+
+
+Estadio: Deutsche Bank Park
+Ciudad: Fráncfort del Meno
+Capacidad general: 222
+Capacidad vip: 24
+Restaurantes:
+- Nombre: Abreu y Alonzo
+  Productos:
+  - Nombre: Genérico Metal Pescado
+    Cantidad: 511
+    Precio: 345.68
+    Adicional: plate
+    Stock: 343
+  - Nombre: Inteligente Granito Toallas
+    Cantidad: 13949
+    Precio: 825.92
+    Adicional: plate
+    Stock: 414
+  - Nombre: Refinado Algodón Mesa
+    Cantidad: 10437
+    Precio: 1132.16
+    Adicional: plate
+    Stock: 300
+  - Nombre: Rústico Acero Pelota
+    Cantidad: 13073
+    Precio: 104.4
+    Adicional: non-alcoholic
+    Stock: 162
+  - Nombre: Fantástico Plástico Gorro
+    Cantidad: 5056
+    Precio: 846.8
+    Adicional: alcoholic
+    Stock: 453
+  - Nombre: Ergonómico Madera Bicicleta
+    Cantidad: 11062
+    Precio: 531.28
+    Adicional: non-alcoholic
+    Stock: 229
+  - Nombre: Guapo Hormigon Pollo
+    Cantidad: 7716
+    Precio: 200.68
+    Adicional: package
+    Stock: 106
+  - Nombre: Refinado Ladrillo Atún
+    Cantidad: 8543
+    Precio: 584.64
+    Adicional: alcoholic
+    Stock: 246
+  - Nombre: Guapa Plástico Bacon
+    Cantidad: 12783
+    Precio: 1144.92
+    Adicional: plate
+    Stock: 439
+  - Nombre: Rústico Acero Camiseta
+    Cantidad: 11071
+    Precio: 251.72
+    Adicional: plate
+    Stock: 307
+  - Nombre: Pequeño Plástico Gorro
+    Cantidad: 881
+    Precio: 607.84
+    Adicional: alcoholic
+    Stock: 260
+  - Nombre: Sorprendente Madera Pantalones
+    Cantidad: 3181
+    Precio: 229.68
+    Adicional: package
+    Stock: 168
+
+- Nombre: Aguilera, Rodarte y Borrego Asociados
+  Productos:
+  - Nombre: Increible Algodón Mesa
+    Cantidad: 1381
+    Precio: 1139.12
+    Adicional: alcoholic
+    Stock: 349
+  - Nombre: Inteligente Metal Toallas
+    Cantidad: 13056
+    Precio: 382.8
+    Adicional: package
+    Stock: 111
+  - Nombre: Hecho a mano Hormigon Bacon
+    Cantidad: 12776
+    Precio: 2.32
+    Adicional: non-alcoholic
+    Stock: 350
+  - Nombre: Hecho a mano Hormigon Silla
+    Cantidad: 3118
+    Precio: 712.24
+    Adicional: package
+    Stock: 371
+  - Nombre: Práctico Ladrillo Pizza
+    Cantidad: 3553
+    Precio: 815.48
+    Adicional: alcoholic
+    Stock: 447
+  - Nombre: Guapa Madera Teclado
+    Cantidad: 107
+    Precio: 889.72
+    Adicional: package
+    Stock: 490
+  - Nombre: Inteligente Plástico Guantes
+    Cantidad: 10362
+    Precio: 566.08
+    Adicional: non-alcoholic
+    Stock: 474
+  - Nombre: Sabroso Ladrillo Atún
+    Cantidad: 13937
+    Precio: 670.48
+    Adicional: plate
+    Stock: 257
+  - Nombre: Práctico Algodón Teclado
+    Cantidad: 5085
+    Precio: 621.76
+    Adicional: package
+    Stock: 309
+  - Nombre: Genérico Algodón Sopa
+    Cantidad: 6139
+    Precio: 1117.08
+    Adicional: alcoholic
+    Stock: 405
+  - Nombre: Guapo Granito Queso
+    Cantidad: 13766
+    Precio: 921.04
+    Adicional: alcoholic
+    Stock: 160
+
+- Nombre: Almonte Vigil S.L.
+  Productos:
+  - Nombre: Genérico Plástico Pescado
+    Cantidad: 6023
+    Precio: 83.52
+    Adicional: package
+    Stock: 263
+  - Nombre: Genérico Hormigon Ensalada
+    Cantidad: 1577
+    Precio: 1063.72
+    Adicional: package
+    Stock: 374
+  - Nombre: Sabroso Hormigon Ordenador
+    Cantidad: 3417
+    Precio: 66.12
+    Adicional: alcoholic
+    Stock: 368
+  - Nombre: Ergonómico Madera Silla
+    Cantidad: 10006
+    Precio: 335.24
+    Adicional: plate
+    Stock: 333
+  - Nombre: Fantástico Granito Ordenador
+    Cantidad: 12317
+    Precio: 133.4
+    Adicional: package
+    Stock: 168
+  - Nombre: Práctico Granito Silla
+    Cantidad: 3501
+    Precio: 187.92000000000002
+    Adicional: plate
+    Stock: 494
+  - Nombre: Fantástico Madera Bacon
+    Cantidad: 1235
+    Precio: 874.64
+    Adicional: plate
+    Stock: 391
+  - Nombre: Increible Metal Zapatos
+    Cantidad: 3600
+    Precio: 332.92
+    Adicional: plate
+    Stock: 100
+  - Nombre: Guapo Acero Camiseta
+    Cantidad: 5502
+    Precio: 692.52
+    Adicional: package
+    Stock: 355
+  - Nombre: Refinado Plástico Bacon
+    Cantidad: 10701
+    Precio: 515.04
+    Adicional: plate
+    Stock: 103
+  - Nombre: Práctico Metal Pollo
+    Cantidad: 14939
+    Precio: 451.24
+    Adicional: non-alcoholic
+    Stock: 203
+
+- Nombre: Apodaca, Saiz y Sevilla Asociados
+  Productos:
+  - Nombre: Inteligente Algodón Pelota
+    Cantidad: 6593
+    Precio: 160.08
+    Adicional: alcoholic
+    Stock: 117
+  - Nombre: Guapa Hormigon Sopa
+    Cantidad: 12042
+    Precio: 1057.92
+    Adicional: package
+    Stock: 465
+  - Nombre: Increible Metal Sopa
+    Cantidad: 11506
+    Precio: 309.72
+    Adicional: plate
+    Stock: 120
+  - Nombre: Inteligente Algodón Coche
+    Cantidad: 11574
+    Precio: 1020.8
+    Adicional: non-alcoholic
+    Stock: 417
+  - Nombre: Increible Acero Bacon
+    Cantidad: 11598
+    Precio: 283.04
+    Adicional: plate
+    Stock: 324
+  - Nombre: Ergonómico Algodón Salchichas
+    Cantidad: 6008
+    Precio: 1008.04
+    Adicional: plate
+    Stock: 435
+  - Nombre: Fantástico Ladrillo Camiseta
+    Cantidad: 4915
+    Precio: 185.6
+    Adicional: alcoholic
+    Stock: 351
+  - Nombre: Ergonómico Plástico Zapatos
+    Cantidad: 2864
+    Precio: 606.6800000000001
+    Adicional: non-alcoholic
+    Stock: 128
+  - Nombre: Increible Algodón Pelota
+    Cantidad: 6750
+    Precio: 743.56
+    Adicional: non-alcoholic
+    Stock: 478
+  - Nombre: Increible Hormigon Mesa
+    Cantidad: 9450
+    Precio: 1027.76
+    Adicional: non-alcoholic
+    Stock: 485
+  - Nombre: Rústico Hormigon Gorro
+    Cantidad: 9601
+    Precio: 194.88
+    Adicional: non-alcoholic
+    Stock: 350
+  - Nombre: Pequeño Algodón Atún
+    Cantidad: 14142
+    Precio: 412.96
+    Adicional: package
+    Stock: 194
+  - Nombre: Inteligente Plástico Gorro
+    Cantidad: 5361
+    Precio: 222.72
+    Adicional: plate
+    Stock: 215
+  - Nombre: Inteligente Acero Bacon
+    Cantidad: 7096
+    Precio: 1.16
+    Adicional: alcoholic
+    Stock: 328
+  - Nombre: Genérico Acero Ordenador
+    Cantidad: 1473
+    Precio: 306.24
+    Adicional: package
+    Stock: 232
+  - Nombre: Sorprendente Acero Raton
+    Cantidad: 10840
+    Precio: 842.16
+    Adicional: package
+    Stock: 465
+
+
+Estadio: Estadio Rhein Energie
+Ciudad: Colonia
+Capacidad general: 374
+Capacidad vip: 424
+Restaurantes:
+- Nombre: Montalvo y Matos
+  Productos:
+  - Nombre: Inteligente Hormigon Patatas fritas
+    Cantidad: 10605
+    Precio: 911.76
+    Adicional: plate
+    Stock: 426
+  - Nombre: Guapo Hormigon Gorro
+    Cantidad: 1668
+    Precio: 148.48
+    Adicional: package
+    Stock: 209
+  - Nombre: Hecho a mano Ladrillo Queso
+    Cantidad: 12644
+    Precio: 470.96000000000004
+    Adicional: plate
+    Stock: 221
+  - Nombre: Sabroso Madera Zapatos
+    Cantidad: 10869
+    Precio: 861.88
+    Adicional: package
+    Stock: 429
+  - Nombre: Pequeño Acero Salchichas
+    Cantidad: 3398
+    Precio: 890.88
+    Adicional: package
+    Stock: 155
+  - Nombre: Refinado Acero Guantes
+    Cantidad: 3872
+    Precio: 411.8
+    Adicional: non-alcoholic
+    Stock: 449
+  - Nombre: Práctico Ladrillo Coche
+    Cantidad: 1279
+    Precio: 566.08
+    Adicional: alcoholic
+    Stock: 393
+  - Nombre: Sabroso Metal Silla
+    Cantidad: 11162
+    Precio: 364.24
+    Adicional: non-alcoholic
+    Stock: 276
+  - Nombre: Refinado Ladrillo Guantes
+    Cantidad: 8641
+    Precio: 240.12
+    Adicional: alcoholic
+    Stock: 491
+  - Nombre: Artesanal Metal Toallas
+    Cantidad: 10771
+    Precio: 791.12
+    Adicional: package
+    Stock: 295
+  - Nombre: Genérico Metal Salchichas
+    Cantidad: 6357
+    Precio: 44.08
+    Adicional: package
+    Stock: 179
+  - Nombre: Fantástico Ladrillo Mesa
+    Cantidad: 6835
+    Precio: 107.88
+    Adicional: plate
+    Stock: 435
+
+- Nombre: Salinas González e Hijos
+  Productos:
+  - Nombre: Sorprendente Granito Teclado
+    Cantidad: 12496
+    Precio: 6.96
+    Adicional: non-alcoholic
+    Stock: 325
+  - Nombre: Increible Hormigon Pescado
+    Cantidad: 7853
+    Precio: 45.24
+    Adicional: alcoholic
+    Stock: 422
+  - Nombre: Genérico Plástico Ensalada
+    Cantidad: 2970
+    Precio: 1125.2
+    Adicional: non-alcoholic
+    Stock: 432
+  - Nombre: Guapo Madera Toallas
+    Cantidad: 13163
+    Precio: 266.8
+    Adicional: alcoholic
+    Stock: 121
+  - Nombre: Hecho a mano Granito Camiseta
+    Cantidad: 6071
+    Precio: 870.0
+    Adicional: package
+    Stock: 404
+  - Nombre: Fantástico Acero Sopa
+    Cantidad: 10122
+    Precio: 26.68
+    Adicional: package
+    Stock: 274
+  - Nombre: Pequeño Hormigon Pollo
+    Cantidad: 7778
+    Precio: 1008.04
+    Adicional: package
+    Stock: 409
+  - Nombre: Sabroso Algodón Gorro
+    Cantidad: 7252
+    Precio: 849.12
+    Adicional: package
+    Stock: 206
+  - Nombre: Artesanal Hormigon Guantes
+    Cantidad: 2863
+    Precio: 1142.6
+    Adicional: package
+    Stock: 244
+  - Nombre: Guapo Ladrillo Pelota
+    Cantidad: 1950
+    Precio: 619.44
+    Adicional: alcoholic
+    Stock: 114
+
+- Nombre: Escobar S.A.
+  Productos:
+  - Nombre: Hecho a mano Ladrillo Atún
+    Cantidad: 5446
+    Precio: 141.52
+    Adicional: package
+    Stock: 391
+  - Nombre: Guapo Ladrillo Sopa
+    Cantidad: 3794
+    Precio: 618.28
+    Adicional: non-alcoholic
+    Stock: 431
+  - Nombre: Guapo Metal Silla
+    Cantidad: 12486
+    Precio: 990.64
+    Adicional: alcoholic
+    Stock: 346
+  - Nombre: Increible Granito Raton
+    Cantidad: 8649
+    Precio: 699.48
+    Adicional: package
+    Stock: 418
+  - Nombre: Ergonómico Madera Bicicleta
+    Cantidad: 12928
+    Precio: 236.64
+    Adicional: non-alcoholic
+    Stock: 395
+  - Nombre: Guapo Algodón Silla
+    Cantidad: 595
+    Precio: 619.44
+    Adicional: plate
+    Stock: 424
+  - Nombre: Hecho a mano Granito Coche
+    Cantidad: 1417
+    Precio: 679.76
+    Adicional: package
+    Stock: 140
+  - Nombre: Guapo Ladrillo Camiseta
+    Cantidad: 3669
+    Precio: 473.28
+    Adicional: package
+    Stock: 128
+  - Nombre: Hecho a mano Plástico Gorro
+    Cantidad: 11977
+    Precio: 917.56
+    Adicional: plate
+    Stock: 178
+  - Nombre: Inteligente Hormigon Pizza
+    Cantidad: 3233
+    Precio: 106.72
+    Adicional: non-alcoholic
+    Stock: 405
+  - Nombre: Inteligente Algodón Raton
+    Cantidad: 828
+    Precio: 380.48
+    Adicional: non-alcoholic
+    Stock: 409
+  - Nombre: Sabroso Acero Pescado
+    Cantidad: 12933
+    Precio: 707.6
+    Adicional: alcoholic
+    Stock: 107
+
+
+Estadio: Red Bull Arena
+Ciudad: Leipzig
+Capacidad general: 292
+Capacidad vip: 206
+Restaurantes:
+- Nombre: Garica y Bueno
+  Productos:
+  - Nombre: Genérico Madera Toallas
+    Cantidad: 10469
+    Precio: 705.28
+    Adicional: non-alcoholic
+    Stock: 383
+  - Nombre: Sorprendente Ladrillo Bicicleta
+    Cantidad: 3507
+    Precio: 560.28
+    Adicional: package
+    Stock: 110
+  - Nombre: Ergonómico Algodón Pollo
+    Cantidad: 14465
+    Precio: 737.76
+    Adicional: alcoholic
+    Stock: 353
+  - Nombre: Guapo Hormigon Camiseta
+    Cantidad: 6683
+    Precio: 824.76
+    Adicional: alcoholic
+    Stock: 414
+  - Nombre: Guapo Ladrillo Gorro
+    Cantidad: 12850
+    Precio: 806.2
+    Adicional: package
+    Stock: 146
+  - Nombre: Sorprendente Metal Bacon
+    Cantidad: 12245
+    Precio: 281.88
+    Adicional: non-alcoholic
+    Stock: 263
+  - Nombre: Increible Plástico Guantes
+    Cantidad: 9022
+    Precio: 701.8
+    Adicional: package
+    Stock: 319
+  - Nombre: Sabroso Metal Teclado
+    Cantidad: 1316
+    Precio: 73.08
+    Adicional: alcoholic
+    Stock: 195
+  - Nombre: Práctico Madera Pollo
+    Cantidad: 4823
+    Precio: 641.48
+    Adicional: non-alcoholic
+    Stock: 122
+  - Nombre: Guapo Hormigon Guantes
+    Cantidad: 13628
+    Precio: 1047.48
+    Adicional: non-alcoholic
+    Stock: 461
+  - Nombre: Sorprendente Madera Ensalada
+    Cantidad: 2228
+    Precio: 446.6
+    Adicional: package
+    Stock: 404
+  - Nombre: Pequeño Metal Bicicleta
+    Cantidad: 2983
+    Precio: 836.36
+    Adicional: package
+    Stock: 369
+
+- Nombre: Roybal, Rendón y Verdugo Asociados
+  Productos:
+  - Nombre: Sorprendente Plástico Toallas
+    Cantidad: 10548
+    Precio: 951.2
+    Adicional: non-alcoholic
+    Stock: 458
+  - Nombre: Pequeño Hormigon Teclado
+    Cantidad: 7456
+    Precio: 563.76
+    Adicional: package
+    Stock: 320
+  - Nombre: Práctico Granito Patatas fritas
+    Cantidad: 320
+    Precio: 687.88
+    Adicional: package
+    Stock: 480
+  - Nombre: Pequeño Acero Patatas fritas
+    Cantidad: 2342
+    Precio: 653.08
+    Adicional: plate
+    Stock: 347
+  - Nombre: Guapo Acero Toallas
+    Cantidad: 9721
+    Precio: 532.44
+    Adicional: plate
+    Stock: 331
+  - Nombre: Hecho a mano Hormigon Ordenador
+    Cantidad: 6128
+    Precio: 614.8
+    Adicional: package
+    Stock: 281
+  - Nombre: Práctico Madera Salchichas
+    Cantidad: 8257
+    Precio: 859.56
+    Adicional: non-alcoholic
+    Stock: 224
+  - Nombre: Práctico Acero Teclado
+    Cantidad: 5904
+    Precio: 872.32
+    Adicional: package
+    Stock: 361
+  - Nombre: Ergonómico Granito Pantalones
+    Cantidad: 4180
+    Precio: 667.0
+    Adicional: alcoholic
+    Stock: 294
+  - Nombre: Guapa Algodón Guantes
+    Cantidad: 1191
+    Precio: 352.64
+    Adicional: plate
+    Stock: 199
+  - Nombre: Sabroso Ladrillo Ensalada
+    Cantidad: 5311
+    Precio: 483.72
+    Adicional: package
+    Stock: 161
+  - Nombre: Ergonómico Madera Pantalones
+    Cantidad: 5100
+    Precio: 252.88
+    Adicional: alcoholic
+    Stock: 177
+  - Nombre: Sabroso Metal Pizza
+    Cantidad: 13963
+    Precio: 103.24
+    Adicional: package
+    Stock: 165
+  - Nombre: Sabroso Algodón Pantalones
+    Cantidad: 2411
+    Precio: 351.48
+    Adicional: non-alcoholic
+    Stock: 114
+  - Nombre: Fantástico Metal Bicicleta
+    Cantidad: 8280
+    Precio: 133.4
+    Adicional: non-alcoholic
+    Stock: 149
+
+- Nombre: Barrera, Granados y Garza Asociados
+  Productos:
+  - Nombre: Pequeño Madera Teclado
+    Cantidad: 963
+    Precio: 206.48
+    Adicional: package
+    Stock: 482
+  - Nombre: Rústico Plástico Zapatos
+    Cantidad: 2369
+    Precio: 389.76
+    Adicional: package
+    Stock: 182
+  - Nombre: Guapa Granito Patatas fritas
+    Cantidad: 10355
+    Precio: 1068.3600000000001
+    Adicional: alcoholic
+    Stock: 436
+  - Nombre: Guapo Acero Sopa
+    Cantidad: 447
+    Precio: 283.04
+    Adicional: plate
+    Stock: 275
+  - Nombre: Fantástico Madera Toallas
+    Cantidad: 9313
+    Precio: 744.72
+    Adicional: alcoholic
+    Stock: 389
+  - Nombre: Artesanal Plástico Raton
+    Cantidad: 6938
+    Precio: 854.92
+    Adicional: plate
+    Stock: 113
+  - Nombre: Inteligente Hormigon Queso
+    Cantidad: 1191
+    Precio: 1015.0
+    Adicional: non-alcoholic
+    Stock: 140
+  - Nombre: Fantástico Ladrillo Atún
+    Cantidad: 6894
+    Precio: 817.8
+    Adicional: package
+    Stock: 297
+  - Nombre: Ergonómico Ladrillo Coche
+    Cantidad: 6771
+    Precio: 19.72
+    Adicional: alcoholic
+    Stock: 290
+  - Nombre: Inteligente Acero Gorro
+    Cantidad: 2750
+    Precio: 723.84
+    Adicional: non-alcoholic
+    Stock: 358
+  - Nombre: Pequeño Plástico Raton
+    Cantidad: 8726
+    Precio: 894.36
+    Adicional: package
+    Stock: 230
+  - Nombre: Increible Hormigon Atún
+    Cantidad: 7147
+    Precio: 603.2
+    Adicional: non-alcoholic
+    Stock: 413
+  - Nombre: Artesanal Granito Zapatos
+    Cantidad: 12724
+    Precio: 808.52
+    Adicional: package
+    Stock: 446
+  - Nombre: Refinado Hormigon Guantes
+    Cantidad: 4598
+    Precio: 1129.84
+    Adicional: non-alcoholic
+    Stock: 498
+  - Nombre: Increible Granito Queso
+    Cantidad: 4710
+    Precio: 917.56
+    Adicional: package
+    Stock: 413
+
+- Nombre: Coronado Armijo e Hijos
+  Productos:
+  - Nombre: Inteligente Granito Mesa
+    Cantidad: 2702
+    Precio: 533.6
+    Adicional: alcoholic
+    Stock: 318
+  - Nombre: Artesanal Metal Bacon
+    Cantidad: 11425
+    Precio: 778.36
+    Adicional: non-alcoholic
+    Stock: 153
+  - Nombre: Refinado Hormigon Salchichas
+    Cantidad: 13298
+    Precio: 520.84
+    Adicional: plate
+    Stock: 385
+  - Nombre: Fantástico Hormigon Zapatos
+    Cantidad: 1494
+    Precio: 477.92
+    Adicional: plate
+    Stock: 390
+  - Nombre: Hecho a mano Metal Gorro
+    Cantidad: 10008
+    Precio: 133.4
+    Adicional: non-alcoholic
+    Stock: 150
+  - Nombre: Artesanal Granito Pescado
+    Cantidad: 8120
+    Precio: 930.3199999999999
+    Adicional: non-alcoholic
+    Stock: 458
+  - Nombre: Rústico Madera Patatas fritas
+    Cantidad: 9301
+    Precio: 731.96
+    Adicional: package
+    Stock: 478
+  - Nombre: Refinado Granito Patatas fritas
+    Cantidad: 12799
+    Precio: 474.44
+    Adicional: package
+    Stock: 270
+  - Nombre: Ergonómico Madera Gorro
+    Cantidad: 6922
+    Precio: 508.08
+    Adicional: package
+    Stock: 398
+  - Nombre: Sabroso Acero Guantes
+    Cantidad: 5018
+    Precio: 1076.48
+    Adicional: non-alcoholic
+    Stock: 398
+  - Nombre: Inteligente Acero Zapatos
+    Cantidad: 6182
+    Precio: 968.6
+    Adicional: alcoholic
+    Stock: 351
+  - Nombre: Increible Plástico Pantalones
+    Cantidad: 339
+    Precio: 379.32
+    Adicional: package
+    Stock: 249
+
+
+Estadio: Merkur Spiel-Arena
+Ciudad: Düsseldorf
+Capacidad general: 768
+Capacidad vip: 169
+Restaurantes:
+- Nombre: Apodaca S.L.
+  Productos:
+  - Nombre: Fantástico Metal Atún
+    Cantidad: 9534
+    Precio: 766.76
+    Adicional: non-alcoholic
+    Stock: 282
+  - Nombre: Guapo Acero Zapatos
+    Cantidad: 6696
+    Precio: 631.04
+    Adicional: alcoholic
+    Stock: 234
+  - Nombre: Increible Metal Raton
+    Cantidad: 450
+    Precio: 828.24
+    Adicional: plate
+    Stock: 309
+  - Nombre: Rústico Plástico Gorro
+    Cantidad: 9311
+    Precio: 1001.08
+    Adicional: non-alcoholic
+    Stock: 262
+  - Nombre: Inteligente Madera Gorro
+    Cantidad: 947
+    Precio: 838.6800000000001
+    Adicional: non-alcoholic
+    Stock: 164
+  - Nombre: Increible Granito Pantalones
+    Cantidad: 13482
+    Precio: 1086.92
+    Adicional: plate
+    Stock: 403
+  - Nombre: Hecho a mano Granito Pescado
+    Cantidad: 6500
+    Precio: 135.72
+    Adicional: alcoholic
+    Stock: 434
+  - Nombre: Guapo Ladrillo Patatas fritas
+    Cantidad: 11406
+    Precio: 82.36
+    Adicional: non-alcoholic
+    Stock: 403
+  - Nombre: Sabroso Madera Pescado
+    Cantidad: 8259
+    Precio: 568.4
+    Adicional: non-alcoholic
+    Stock: 423
+  - Nombre: Hecho a mano Algodón Sopa
+    Cantidad: 6371
+    Precio: 1144.92
+    Adicional: non-alcoholic
+    Stock: 424
+  - Nombre: Guapo Acero Silla
+    Cantidad: 10575
+    Precio: 726.16
+    Adicional: alcoholic
+    Stock: 102
+  - Nombre: Pequeño Metal Bacon
+    Cantidad: 14906
+    Precio: 64.96000000000001
+    Adicional: alcoholic
+    Stock: 126
+
+- Nombre: Montaño Aranda e Hijos
+  Productos:
+  - Nombre: Guapa Acero Mesa
+    Cantidad: 3957
+    Precio: 654.24
+    Adicional: non-alcoholic
+    Stock: 288
+  - Nombre: Guapo Granito Sopa
+    Cantidad: 6248
+    Precio: 272.6
+    Adicional: alcoholic
+    Stock: 380
+  - Nombre: Ergonómico Algodón Zapatos
+    Cantidad: 11730
+    Precio: 619.44
+    Adicional: alcoholic
+    Stock: 101
+  - Nombre: Hecho a mano Acero Pollo
+    Cantidad: 6234
+    Precio: 160.08
+    Adicional: package
+    Stock: 287
+  - Nombre: Hecho a mano Acero Bacon
+    Cantidad: 2041
+    Precio: 154.28
+    Adicional: package
+    Stock: 473
+  - Nombre: Inteligente Algodón Silla
+    Cantidad: 12862
+    Precio: 469.8
+    Adicional: package
+    Stock: 407
+  - Nombre: Increible Hormigon Zapatos
+    Cantidad: 10741
+    Precio: 469.8
+    Adicional: non-alcoholic
+    Stock: 492
+  - Nombre: Guapo Madera Pizza
+    Cantidad: 4098
+    Precio: 880.44
+    Adicional: package
+    Stock: 127
+  - Nombre: Ergonómico Ladrillo Atún
+    Cantidad: 5597
+    Precio: 912.92
+    Adicional: alcoholic
+    Stock: 123
+  - Nombre: Refinado Hormigon Guantes
+    Cantidad: 436
+    Precio: 765.6
+    Adicional: package
+    Stock: 442
+  - Nombre: Rústico Madera Bicicleta
+    Cantidad: 8336
+    Precio: 1099.68
+    Adicional: plate
+    Stock: 499
+  - Nombre: Ergonómico Madera Salchichas
+    Cantidad: 9361
+    Precio: 559.12
+    Adicional: plate
+    Stock: 481
+  - Nombre: Sorprendente Acero Camiseta
+    Cantidad: 11703
+    Precio: 135.72
+    Adicional: package
+    Stock: 356
+  - Nombre: Sorprendente Hormigon Zapatos
+    Cantidad: 8579
+    Precio: 1092.72
+    Adicional: plate
+    Stock: 255
+
+- Nombre: Olivares, Rentería y Alarcón Asociados
+  Productos:
+  - Nombre: Pequeño Algodón Guantes
+    Cantidad: 12082
+    Precio: 176.32
+    Adicional: package
+    Stock: 112
+  - Nombre: Sabroso Ladrillo Coche
+    Cantidad: 1481
+    Precio: 438.48
+    Adicional: non-alcoholic
+    Stock: 134
+  - Nombre: Guapa Metal Salchichas
+    Cantidad: 981
+    Precio: 571.88
+    Adicional: alcoholic
+    Stock: 491
+  - Nombre: Fantástico Algodón Coche
+    Cantidad: 6804
+    Precio: 698.32
+    Adicional: plate
+    Stock: 350
+  - Nombre: Refinado Metal Pantalones
+    Cantidad: 6713
+    Precio: 1153.04
+    Adicional: plate
+    Stock: 367
+  - Nombre: Genérico Ladrillo Zapatos
+    Cantidad: 6538
+    Precio: 996.44
+    Adicional: plate
+    Stock: 440
+  - Nombre: Hecho a mano Plástico Toallas
+    Cantidad: 11130
+    Precio: 704.12
+    Adicional: alcoholic
+    Stock: 479
+  - Nombre: Fantástico Madera Ordenador
+    Cantidad: 6529
+    Precio: 10.44
+    Adicional: package
+    Stock: 159
+  - Nombre: Artesanal Madera Ordenador
+    Cantidad: 4210
+    Precio: 1071.84
+    Adicional: alcoholic
+    Stock: 172
+  - Nombre: Ergonómico Algodón Ordenador
+    Cantidad: 11661
+    Precio: 947.72
+    Adicional: package
+    Stock: 268
+
+- Nombre: Ybarra, Quintana y Espino Asociados
+  Productos:
+  - Nombre: Guapo Granito Sopa
+    Cantidad: 13870
+    Precio: 940.76
+    Adicional: non-alcoholic
+    Stock: 256
+  - Nombre: Increible Algodón Camiseta
+    Cantidad: 8920
+    Precio: 805.04
+    Adicional: non-alcoholic
+    Stock: 255
+  - Nombre: Práctico Plástico Raton
+    Cantidad: 10576
+    Precio: 1.16
+    Adicional: plate
+    Stock: 124
+  - Nombre: Artesanal Ladrillo Pescado
+    Cantidad: 11274
+    Precio: 451.24
+    Adicional: non-alcoholic
+    Stock: 385
+  - Nombre: Pequeño Metal Silla
+    Cantidad: 11218
+    Precio: 109.04
+    Adicional: plate
+    Stock: 426
+  - Nombre: Genérico Algodón Toallas
+    Cantidad: 13870
+    Precio: 300.44
+    Adicional: non-alcoholic
+    Stock: 493
+  - Nombre: Guapo Algodón Pizza
+    Cantidad: 10536
+    Precio: 135.72
+    Adicional: package
+    Stock: 351
+  - Nombre: Increible Granito Gorro
+    Cantidad: 10094
+    Precio: 894.36
+    Adicional: plate
+    Stock: 281
+  - Nombre: Sorprendente Madera Sopa
+    Cantidad: 12987
+    Precio: 946.56
+    Adicional: plate
+    Stock: 448
+  - Nombre: Genérico Plástico Guantes
+    Cantidad: 13332
+    Precio: 236.64
+    Adicional: package
+    Stock: 343
+  - Nombre: Genérico Ladrillo Pescado
+    Cantidad: 9964
+    Precio: 773.72
+    Adicional: package
+    Stock: 337
+  - Nombre: Genérico Acero Gorro
+    Cantidad: 3203
+    Precio: 143.84
+    Adicional: plate
+    Stock: 296
+  - Nombre: Refinado Algodón Zapatos
+    Cantidad: 11247
+    Precio: 60.32
+    Adicional: package
+    Stock: 152
+  - Nombre: Refinado Algodón Mesa
+    Cantidad: 5666
+    Precio: 288.84000000000003
+    Adicional: non-alcoholic
+    Stock: 323
+
+
